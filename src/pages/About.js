@@ -30,7 +30,7 @@ const About = () => {
         <Typography variant="h4">Welcome To Giovanni's Pizza</Typography>
         
         <p>
-        Giovanni's Pizza is aN authentic pizza restaurant creating homemade pizzas.
+        Giovanni's Pizza is an authentic pizza restaurant creating homemade pizzas.
         It is restaurant run by a family - father, mother, sons, and daughters. 
         </p>
         <br />
